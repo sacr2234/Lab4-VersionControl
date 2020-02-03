@@ -1,0 +1,9 @@
+Merge record:
+
+Samuels-MacBook-Pro-3:Lab4-VersionControl samuelcramer$ git pull
+Merge made by the 'recursive' strategy.
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+
+End.
